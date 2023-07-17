@@ -142,7 +142,7 @@ header{
     }
 
     .header-left{
-        width: 100%;
+        width: auto;
         justify-content: center;
         align-items: center;
         text-align: center;
@@ -175,8 +175,15 @@ align-items: center;
 
     }
     
+    .sponser-container {
+        margin: auto;
+        text-align: center;
+    }
+    .sponser-container img{
+        width: 33.381px;
+        height: 18.838px;
+    }
     
-
 
 
 }
